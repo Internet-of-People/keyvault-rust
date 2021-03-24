@@ -1,5 +1,7 @@
 # Keyvault
 
+**Merged into the [iop-rs](https://github.com/Internet-of-People/iop-rs) repository!**
+
 Keyvault is a general purpose hierarchical deterministic (HD) generator for asymmetric keys.
 It is based on the same concepts as a Bitcoin HD-wallet and is built on the same specifications like
 [HD wallets of Bip32](https://en.bitcoin.it/wiki/BIP_0032),
