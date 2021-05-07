@@ -1,5 +1,14 @@
 # Changelog
 
+Note: Both crates in this repository has been merged into <https://github.com/Internet-of-People/iop-rs> and
+are maintained there.
+
+## 0.0.12-hotfix1 (2021-05-07)
+
+### Change
+
+- updated dependent crates
+
 ## 0.0.12 (2021-03-16)
 
 ### Change
